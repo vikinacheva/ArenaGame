@@ -48,7 +48,7 @@ namespace ArenaGame
 
         public override int Heal()
         {
-            int heal = 2; // Rogues don't have inherent healing abilities
+            int heal = 0; // Rogues don't have inherent healing abilities
             return heal;
         }
 
