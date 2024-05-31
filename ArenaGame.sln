@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArenaGame", "ArenaGame.csproj", "{AE18FF17-7024-48AD-96CE-25F8C5D25A46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE18FF17-7024-48AD-96CE-25F8C5D25A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE18FF17-7024-48AD-96CE-25F8C5D25A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE18FF17-7024-48AD-96CE-25F8C5D25A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE18FF17-7024-48AD-96CE-25F8C5D25A46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F10E536F-0B0F-46FB-94A1-87789F01E061}
+	EndGlobalSection
+EndGlobal
